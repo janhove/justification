@@ -19,5 +19,6 @@ represent a natural starting point for teaching statistical inference to
 non-mathematicians.
 
 ## Data
-The data stems from Klein et al.'s (2014) [_Investigating variation in replicability: A "many labs" replication project_](httsp://doi.org/10.1027/1864-9335/a000178).
-(Figure out the licence.)
+The data stems from Klein et al.'s (2014) [_Investigating variation in replicability: A "many labs" replication project_](https://doi.org/10.1027/1864-9335/a000178)
+and were made available under the CC0 1.0 Universal license on (OSF.io)[https://osf.io/8cd4r].
+The file `Data/Klein2014_gambler.csv`, which contains the data on the gambler's fallacy experiment from the Brasília sample was extracted from this dataset, and is made available under the same license.
