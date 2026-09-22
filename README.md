@@ -24,3 +24,12 @@ provide a natural starting point for teaching statistical inference to non-mathe
 The data stems from Klein et al.'s (2014) [_Investigating variation in replicability: A "many labs" replication project_](https://doi.org/10.1027/1864-9335/a000178)
 and were made available under the CC0 1.0 Universal license on [OSF.io](https://osf.io/8cd4r).
 The file `Klein2014_brasilia_gambler.csv`, which contains the data on the gambler's fallacy experiment from the Brasília sample was extracted from this dataset, and is made available under the same license.
+
+The data set contains three columns and 114 observations:
+
+* `Sample`: always `brasilia`.
+* `Condition`: `two6` if the participants had to imagine two sixes were rolled, `three6` if three sixes.
+* `RollsImagined`: the number of prior rolls they estimated must have occurred.
+
+## Code
+The 
