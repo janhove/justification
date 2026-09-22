@@ -32,4 +32,35 @@ The data set contains three columns and 114 observations:
 * `RollsImagined`: the number of prior rolls they estimated must have occurred.
 
 ## Code
-The 
+The R code is embedded in the `justification.Rmd` file. The following software versions were used:
+
+<code>
+  > devtools::session_info("attached")
+  ─ Session info ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   setting  value
+   version  R version 4.6.1 (2026-06-24 ucrt)
+   os       Windows 11 x64 (build 26200)
+   system   x86_64, mingw32
+   ui       RStudio
+   language (EN)
+   collate  English_United Kingdom.utf8
+   ctype    English_United Kingdom.utf8
+   tz       Europe/Zurich
+   date     2026-09-22
+   rstudio  2026.08.1+195 Yellow Yarrow (desktop)
+   pandoc   3.8.3 @ C:/Program Files/RStudio/resources/app/bin/quarto/bin/tools/ (via rmarkdown)
+   quarto   1.9.38 @ C:\\Users\\VanhoveJ\\AppData\\Local\\Programs\\Quarto\\bin\\quarto.exe
+  
+  ─ Packages ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   package   * version date (UTC) lib source
+   dplyr     * 1.2.1   2026-04-03 [1] CRAN (R 4.6.1)
+   forcats   * 1.0.1   2025-09-25 [1] CRAN (R 4.6.1)
+   ggplot2   * 4.0.3   2026-04-22 [1] CRAN (R 4.6.1)
+   lubridate * 1.9.5   2026-02-04 [1] CRAN (R 4.6.1)
+   purrr     * 1.2.2   2026-04-10 [1] CRAN (R 4.6.1)
+   readr     * 2.2.0   2026-02-19 [1] CRAN (R 4.6.1)
+   stringr   * 1.6.0   2025-11-04 [1] CRAN (R 4.6.1)
+   tibble    * 3.3.1   2026-01-11 [1] CRAN (R 4.6.1)
+   tidyr     * 1.3.2   2025-12-19 [1] CRAN (R 4.6.1)
+   tidyverse * 2.0.0   2023-02-22 [1] CRAN (R 4.6.1)
+</code>
