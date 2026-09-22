@@ -1,6 +1,15 @@
 # justification
 Code and data for _On the justification for sampling-based statistics in randomised experiments_.
 
+## Open peer review
+This article (`justification.pdf`) has been submitted to _Meta-Psychology_. 
+Participate in open peer review by sending an email to open.peer.reviewer@gmail.com. 
+The full editorial process of all articles under review at Meta-Psychology can be found following this link:
+
+https://tinyurl.com/mp-submissions
+
+You will find this preprint by searching for the first author's name (i.e., Vanhove).
+
 ## Abstract
 When popular statistical tools such as the _t_-test are taught, 
 the narrative is one in which the data are sampled randomly from some population.
