@@ -1,6 +1,8 @@
 # justification
 Code and data for _On the justification for sampling-based statistics in randomised experiments_.
 
+[![DOI](https://zenodo.org/badge/1369749855.svg)](https://doi.org/10.5281/zenodo.22898968)
+
 ## Open peer review
 This article (`justification.pdf`) has been submitted to _Meta-Psychology_. 
 Participate in open peer review by sending an email to open.peer.reviewer@gmail.com. 
